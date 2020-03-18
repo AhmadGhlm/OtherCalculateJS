@@ -8,3 +8,13 @@ body {
   padding-top: 1.875rem;
   font-family: "Mina", sans-serif;
 }
+
+.calculator {
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
+  max-width: 25rem;
+  margin: 0 auto;
+  border: 2px solid #111;
+  border-radius: 5px;
+}
