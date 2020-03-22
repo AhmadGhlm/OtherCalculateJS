@@ -57,3 +57,8 @@ body {
   outline: none;
   transition: all 0.2s ease;
 }
+
+.calc-button:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 black;
+}
