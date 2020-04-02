@@ -72,3 +72,8 @@ body {
   background: -webkit-linear-gradient(to right, #f83600, #fe8c00);
   background: linear-gradient(to right, #f83600, #fe8c00);
 }
+
+.is-return {
+  background: -webkit-linear-gradient(to right, #fe8c00, #f83600);
+  background: linear-gradient(to right, #fe8c00, #f83600);
+}
