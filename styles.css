@@ -77,3 +77,10 @@ body {
   background: -webkit-linear-gradient(to right, #fe8c00, #f83600);
   background: linear-gradient(to right, #fe8c00, #f83600);
 }
+
+.is-equals {
+  grid-row: span 2;
+  background: #f7971e;
+  background: -webkit-linear-gradient(to top, #ffd200, #f7971e);
+  background: linear-gradient(to top, #ffd200, #f7971e);
+}
